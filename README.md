@@ -1,5 +1,8 @@
 # Ultrasound_mobile_database
-database of Doppler measurement via mobile ultrasound sensing
+
+The download link von the database is under:  https://cloud-ext.igd.fraunhofer.de/s/i7QNQpbzKYQaBNe
+
+This database contains Doppler measurement via mobile ultrasound sensing.
 
 The database is accompanied to our published paper with the title "Generalization of Fitness Exercise Recognition from Doppler Measurements by Domain-Adaption and Few-Shot Learning".
 

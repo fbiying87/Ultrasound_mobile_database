@@ -1,6 +1,6 @@
 # Ultrasound_mobile_database
 
-The download link von the database is under:  https://cloud-ext.igd.fraunhofer.de/s/i7QNQpbzKYQaBNe
+The download link von the database can be found [here](https://cloud-ext.igd.fraunhofer.de/s/i7QNQpbzKYQaBNe).  
 
 This database contains Doppler measurement via mobile ultrasound sensing.
 
